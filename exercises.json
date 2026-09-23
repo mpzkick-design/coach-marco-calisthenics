@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "wall-push-up",
+    "group": "push",
+    "diagram": "push",
+    "names": {
+      "en": "Wall push-up",
+      "it": "Piegamenti al muro",
+      "de": "Wandliegestütze"
+    },
+    "cues": {
+      "en": "Keep your body straight and press away from the wall.",
+      "it": "Tieni il corpo allineato e spingiti lontano dal muro.",
+      "de": "Halte den Körper gerade und drücke dich von der Wand ab."
+    },
+    "target": "10–15",
+    "rest": 45,
+    "sets": 3
+  },
+  {
+    "id": "incline-push-up",
+    "group": "push",
+    "diagram": "push",
+    "names": {
+      "en": "Incline push-up",
+      "it": "Piegamenti su rialzo",
+      "de": "Erhöhte Liegestütze"
+    },
+    "cues": {
+      "en": "Use a stable surface and keep your body aligned.",
+      "it": "Usa un appoggio stabile e mantieni il corpo allineato.",
+      "de": "Nutze eine stabile Erhöhung und halte den Körper gerade."
+    },
+    "target": "8–12",
+    "rest": 60,
+    "sets": 3
+  },
+  {
+    "id": "knee-push-up",
+    "group": "push",
+    "diagram": "push",
+    "names": {
+      "en": "Knee push-up",
+      "it": "Piegamenti sulle ginocchia",
+      "de": "Knie-Liegestütze"
+    },
+    "cues": {
+      "en": "Keep shoulders, hips and knees in one line.",
+      "it": "Mantieni spalle, anche e ginocchia in linea.",
+      "de": "Halte Schultern, Hüfte und Knie in einer Linie."
+    },
+    "target": "8–12",
+    "rest": 60,
+    "sets": 3
+  },
+  {
+    "id": "floor-push-up",
+    "group": "push",
+    "diagram": "push",
+    "names": {
+      "en": "Floor push-up",
+      "it": "Piegamenti a terra",
+      "de": "Liegestütze"
+    },
+    "cues": {
+      "en": "Keep your body straight and lower with control.",
+      "it": "Tieni il corpo in linea e scendi con controllo.",
+      "de": "Halte den Körper gerade und senke dich kontrolliert."
+    },
+    "target": "6–12",
+    "rest": 75,
+    "sets": 3
+  },
+  {
+    "id": "wide-push-up",
+    "group": "push",
+    "diagram": "push",
+    "names": {
+      "en": "Wide push-up",
+      "it": "Piegamenti a presa larga",
+      "de": "Breite Liegestütze"
+    },
+    "cues": {
+      "en": "Hands slightly wider than shoulders; do not flare elbows excessively.",
+      "it": "Mani poco oltre le spalle; non aprire troppo i gomiti.",
+      "de": "Hände etwas breiter als die Schultern; Ellbogen nicht stark ausstellen."
+    },
+    "target": "6–10",
+    "rest": 90,
+    "sets": 3
+  },
+  {
+    "id": "diamond-push-up",
+    "group": "push",
+    "diagram": "push",
+    "names": {
+      "en": "Diamond push-up",
+      "it": "Piegamenti a diamante",
+      "de": "Diamant-Liegestütze"
+    },
+    "cues": {
+      "en": "Bring hands close together and keep wrists comfortable.",
+      "it": "Avvicina le mani e mantieni comodi i polsi.",
+      "de": "Setze die Hände eng zusammen und achte auf angenehme Handgelenke."
+    },
+    "target": "5–10",
+    "rest": 90,
+    "sets": 3
+  },
+  {
+    "id": "decline-push-up",
+    "group": "push",
+    "diagram": "push",
+    "names": {
+      "en": "Feet-elevated push-up",
+      "it": "Piegamenti con piedi rialzati",
+      "de": "Liegestütze mit erhöhten Füßen"
+    },
+    "cues": {
+      "en": "Place feet on a stable support; keep your trunk braced.",
+      "it": "Piedi su un supporto stabile; mantieni il tronco attivo.",
+      "de": "Füße stabil erhöhen und den Rumpf anspannen."
+    },
+    "target": "6–10",
+    "rest": 90,
+    "sets": 3
+  },
+  {
+    "id": "archer-push-up",
+    "group": "push",
+    "diagram": "push",
+    "names": {
+      "en": "Archer push-up",
+      "it": "Piegamenti arciere",
+      "de": "Archer-Liegestütze"
+    },
+    "cues": {
+      "en": "Shift toward one arm while the other extends; alternate sides.",
+      "it": "Sposta il peso su un braccio mentre l’altro si distende; alterna.",
+      "de": "Verlagere das Gewicht auf einen Arm, während der andere gestreckt wird."
+    },
+    "target": "4–8 / side",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "pseudo-planche-push-up",
+    "group": "push",
+    "diagram": "push",
+    "names": {
+      "en": "Pseudo planche push-up",
+      "it": "Piegamenti pseudo planche",
+      "de": "Pseudo-Planche-Liegestütze"
+    },
+    "cues": {
+      "en": "Lean shoulders forward gradually and keep elbows controlled.",
+      "it": "Porta le spalle avanti gradualmente e controlla i gomiti.",
+      "de": "Lehne die Schultern schrittweise nach vorn und kontrolliere die Ellbogen."
+    },
+    "target": "4–8",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "pike-push-up",
+    "group": "push",
+    "diagram": "pike",
+    "names": {
+      "en": "Pike push-up",
+      "it": "Piegamenti pike",
+      "de": "Pike-Liegestütze"
+    },
+    "cues": {
+      "en": "Keep hips high and lower your head in front of your hands.",
+      "it": "Mantieni il bacino alto e porta la testa davanti alle mani.",
+      "de": "Hüfte hoch halten und den Kopf vor den Händen senken."
+    },
+    "target": "6–10",
+    "rest": 90,
+    "sets": 3
+  },
+  {
+    "id": "elevated-pike",
+    "group": "push",
+    "diagram": "pike",
+    "names": {
+      "en": "Feet-elevated pike push-up",
+      "it": "Pike con piedi rialzati",
+      "de": "Pike-Liegestütze mit erhöhten Füßen"
+    },
+    "cues": {
+      "en": "Raise feet on a stable platform and move through a controlled range.",
+      "it": "Rialza i piedi su una base stabile e controlla il movimento.",
+      "de": "Füße stabil erhöhen und den Bewegungsweg kontrollieren."
+    },
+    "target": "4–8",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "bench-dip",
+    "group": "push",
+    "diagram": "dip",
+    "names": {
+      "en": "Supported bench dip",
+      "it": "Dip con supporto",
+      "de": "Bank-Dips mit Unterstützung"
+    },
+    "cues": {
+      "en": "Use a stable support and stop before shoulder discomfort.",
+      "it": "Usa un supporto stabile e fermati prima di avvertire fastidio alla spalla.",
+      "de": "Nutze eine stabile Auflage und stoppe vor Schulterbeschwerden."
+    },
+    "target": "6–10",
+    "rest": 75,
+    "sets": 3
+  },
+  {
+    "id": "parallel-dip",
+    "group": "push",
+    "diagram": "dip",
+    "names": {
+      "en": "Parallel bar dip",
+      "it": "Dip alle parallele",
+      "de": "Barren-Dips"
+    },
+    "cues": {
+      "en": "Keep shoulders down and use only a comfortable depth.",
+      "it": "Tieni le spalle basse e scendi solo finché è confortevole.",
+      "de": "Schultern unten halten und nur so tief wie angenehm gehen."
+    },
+    "target": "6–10",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "straight-bar-dip",
+    "group": "push",
+    "diagram": "dip",
+    "names": {
+      "en": "Straight bar dip",
+      "it": "Dip alla sbarra",
+      "de": "Dips an der geraden Stange"
+    },
+    "cues": {
+      "en": "Keep the bar close and control the descent.",
+      "it": "Tieni la sbarra vicina e controlla la discesa.",
+      "de": "Halte die Stange nah am Körper und senke dich kontrolliert."
+    },
+    "target": "5–8",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "scapular-pull-up",
+    "group": "pull",
+    "diagram": "pull",
+    "names": {
+      "en": "Scapular pull-up",
+      "it": "Trazione scapolare",
+      "de": "Schulterblatt-Klimmzug"
+    },
+    "cues": {
+      "en": "Hang with straight arms and move only the shoulder blades.",
+      "it": "Resta a braccia tese e muovi solo le scapole.",
+      "de": "Arme gestreckt lassen und nur die Schulterblätter bewegen."
+    },
+    "target": "8–12",
+    "rest": 60,
+    "sets": 3
+  },
+  {
+    "id": "dead-hang",
+    "group": "pull",
+    "diagram": "pull",
+    "names": {
+      "en": "Dead hang",
+      "it": "Sospensione alla sbarra",
+      "de": "Hängen an der Stange"
+    },
+    "cues": {
+      "en": "Hang from a secure bar without forcing your grip or shoulders.",
+      "it": "Appenditi a una sbarra sicura senza forzare presa o spalle.",
+      "de": "Hänge an einer sicheren Stange, ohne Griff oder Schultern zu überlasten."
+    },
+    "target": "15–30 s",
+    "rest": 60,
+    "sets": 3
+  },
+  {
+    "id": "assisted-pull-up",
+    "group": "pull",
+    "diagram": "pull",
+    "names": {
+      "en": "Assisted pull-up",
+      "it": "Trazione assistita",
+      "de": "Unterstützter Klimmzug"
+    },
+    "cues": {
+      "en": "Use a band or stable foot support and lower slowly.",
+      "it": "Usa elastico o appoggio stabile per i piedi e scendi lentamente.",
+      "de": "Nutze ein Band oder eine stabile Fußstütze und senke dich langsam."
+    },
+    "target": "5–8",
+    "rest": 90,
+    "sets": 3
+  },
+  {
+    "id": "negative-pull-up",
+    "group": "pull",
+    "diagram": "pull",
+    "names": {
+      "en": "Pull-up negative",
+      "it": "Trazione negativa",
+      "de": "Negativer Klimmzug"
+    },
+    "cues": {
+      "en": "Start above the bar with safe support and lower slowly.",
+      "it": "Parti sopra la sbarra con un appoggio sicuro e scendi lentamente.",
+      "de": "Beginne mit sicherer Hilfe über der Stange und senke dich langsam."
+    },
+    "target": "3–6",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "pull-up",
+    "group": "pull",
+    "diagram": "pull",
+    "names": {
+      "en": "Pull-up",
+      "it": "Trazione prona",
+      "de": "Klimmzug im Obergriff"
+    },
+    "cues": {
+      "en": "Pull without swinging and lower under control.",
+      "it": "Sali senza slancio e scendi con controllo.",
+      "de": "Ziehe ohne Schwung nach oben und senke dich kontrolliert."
+    },
+    "target": "5–8",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "chin-up",
+    "group": "pull",
+    "diagram": "pull",
+    "names": {
+      "en": "Chin-up",
+      "it": "Trazione supina",
+      "de": "Klimmzug im Untergriff"
+    },
+    "cues": {
+      "en": "Use an underhand grip and keep elbows close.",
+      "it": "Usa la presa supina e tieni i gomiti vicini.",
+      "de": "Greife im Untergriff und halte die Ellbogen nah am Körper."
+    },
+    "target": "5–10",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "neutral-pull-up",
+    "group": "pull",
+    "diagram": "pull",
+    "names": {
+      "en": "Neutral-grip pull-up",
+      "it": "Trazione presa neutra",
+      "de": "Klimmzug im Neutralgriff"
+    },
+    "cues": {
+      "en": "Use parallel handles and avoid swinging.",
+      "it": "Usa maniglie parallele ed evita lo slancio.",
+      "de": "Nutze parallele Griffe und vermeide Schwung."
+    },
+    "target": "5–10",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "wide-pull-up",
+    "group": "pull",
+    "diagram": "pull",
+    "names": {
+      "en": "Wide-grip pull-up",
+      "it": "Trazione presa larga",
+      "de": "Klimmzug mit breitem Griff"
+    },
+    "cues": {
+      "en": "Use a moderately wide grip and move without jerking.",
+      "it": "Usa una presa moderatamente larga e muoviti senza strappi.",
+      "de": "Greife mäßig breit und vermeide ruckartige Bewegungen."
+    },
+    "target": "4–8",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "inverted-row",
+    "group": "pull",
+    "diagram": "row",
+    "names": {
+      "en": "Inverted row",
+      "it": "Rematore inverso",
+      "de": "Umgekehrtes Rudern"
+    },
+    "cues": {
+      "en": "Pull your chest toward a securely fixed low bar.",
+      "it": "Tira il petto verso una sbarra bassa fissata saldamente.",
+      "de": "Ziehe die Brust zu einer sicher befestigten niedrigen Stange."
+    },
+    "target": "6–12",
+    "rest": 75,
+    "sets": 3
+  },
+  {
+    "id": "feet-elevated-row",
+    "group": "pull",
+    "diagram": "row",
+    "names": {
+      "en": "Feet-elevated inverted row",
+      "it": "Rematore con piedi rialzati",
+      "de": "Umgekehrtes Rudern mit erhöhten Füßen"
+    },
+    "cues": {
+      "en": "Elevate feet on a stable support and keep your trunk straight.",
+      "it": "Piedi su supporto stabile e tronco in linea.",
+      "de": "Füße stabil erhöhen und den Rumpf gerade halten."
+    },
+    "target": "6–10",
+    "rest": 90,
+    "sets": 3
+  },
+  {
+    "id": "archer-row",
+    "group": "pull",
+    "diagram": "row",
+    "names": {
+      "en": "Archer row",
+      "it": "Rematore arciere",
+      "de": "Archer-Rudern"
+    },
+    "cues": {
+      "en": "Shift your chest toward one hand, then alternate sides.",
+      "it": "Sposta il petto verso una mano, poi alterna lato.",
+      "de": "Ziehe die Brust zu einer Hand und wechsle die Seite."
+    },
+    "target": "4–8 / side",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "bodyweight-squat",
+    "group": "legs",
+    "diagram": "squat",
+    "names": {
+      "en": "Bodyweight squat",
+      "it": "Squat a corpo libero",
+      "de": "Kniebeuge mit Körpergewicht"
+    },
+    "cues": {
+      "en": "Keep your feet grounded and knees tracking your toes.",
+      "it": "Tieni i piedi a terra e le ginocchia nella direzione delle punte.",
+      "de": "Füße am Boden lassen und Knie in Richtung der Zehen führen."
+    },
+    "target": "10–15",
+    "rest": 60,
+    "sets": 3
+  },
+  {
+    "id": "box-squat",
+    "group": "legs",
+    "diagram": "squat",
+    "names": {
+      "en": "Box squat",
+      "it": "Squat su box",
+      "de": "Box-Kniebeuge"
+    },
+    "cues": {
+      "en": "Sit back toward a stable box and stand without dropping onto it.",
+      "it": "Scendi verso un box stabile senza lasciarti cadere.",
+      "de": "Setze dich kontrolliert auf eine stabile Box und stehe wieder auf."
+    },
+    "target": "8–12",
+    "rest": 60,
+    "sets": 3
+  },
+  {
+    "id": "jump-squat",
+    "group": "legs",
+    "diagram": "squat",
+    "names": {
+      "en": "Jump squat",
+      "it": "Squat con salto",
+      "de": "Sprungkniebeuge"
+    },
+    "cues": {
+      "en": "Land softly with aligned knees; stop if impact is uncomfortable.",
+      "it": "Atterra morbido con ginocchia allineate; fermati se l’impatto dà fastidio.",
+      "de": "Lande weich mit ausgerichteten Knien; bei Beschwerden stoppen."
+    },
+    "target": "5–8",
+    "rest": 90,
+    "sets": 3
+  },
+  {
+    "id": "forward-lunge",
+    "group": "legs",
+    "diagram": "lunge",
+    "names": {
+      "en": "Forward lunge",
+      "it": "Affondo in avanti",
+      "de": "Ausfallschritt vorwärts"
+    },
+    "cues": {
+      "en": "Step forward and push through your front foot to return.",
+      "it": "Fai un passo avanti e spingi dal piede anteriore per tornare.",
+      "de": "Schreite vorwärts und drücke dich über den vorderen Fuß zurück."
+    },
+    "target": "8 / side",
+    "rest": 60,
+    "sets": 3
+  },
+  {
+    "id": "reverse-lunge",
+    "group": "legs",
+    "diagram": "lunge",
+    "names": {
+      "en": "Reverse lunge",
+      "it": "Affondo all’indietro",
+      "de": "Ausfallschritt rückwärts"
+    },
+    "cues": {
+      "en": "Step back and keep your front knee stable.",
+      "it": "Fai un passo indietro e tieni stabile il ginocchio davanti.",
+      "de": "Schreite zurück und halte das vordere Knie stabil."
+    },
+    "target": "8 / side",
+    "rest": 60,
+    "sets": 3
+  },
+  {
+    "id": "walking-lunge",
+    "group": "legs",
+    "diagram": "lunge",
+    "names": {
+      "en": "Walking lunge",
+      "it": "Affondi camminati",
+      "de": "Gehende Ausfallschritte"
+    },
+    "cues": {
+      "en": "Take controlled steps with an upright trunk.",
+      "it": "Avanza con passi controllati e tronco eretto.",
+      "de": "Mache kontrollierte Schritte mit aufrechtem Oberkörper."
+    },
+    "target": "10 / side",
+    "rest": 75,
+    "sets": 3
+  },
+  {
+    "id": "split-squat",
+    "group": "legs",
+    "diagram": "lunge",
+    "names": {
+      "en": "Split squat",
+      "it": "Split squat",
+      "de": "Split Squat"
+    },
+    "cues": {
+      "en": "Keep feet staggered and lower vertically with control.",
+      "it": "Tieni i piedi sfalsati e scendi verticalmente con controllo.",
+      "de": "Füße versetzt lassen und dich kontrolliert senkrecht absenken."
+    },
+    "target": "8–12 / side",
+    "rest": 75,
+    "sets": 3
+  },
+  {
+    "id": "bulgarian-split-squat",
+    "group": "legs",
+    "diagram": "lunge",
+    "names": {
+      "en": "Rear-foot-elevated split squat",
+      "it": "Squat bulgaro",
+      "de": "Bulgarian Split Squat"
+    },
+    "cues": {
+      "en": "Use a stable rear-foot support and a comfortable stance.",
+      "it": "Usa un appoggio stabile per il piede posteriore e una distanza comoda.",
+      "de": "Nutze eine stabile hintere Fußauflage und einen angenehmen Stand."
+    },
+    "target": "6–10 / side",
+    "rest": 90,
+    "sets": 3
+  },
+  {
+    "id": "step-up",
+    "group": "legs",
+    "diagram": "lunge",
+    "names": {
+      "en": "Step-up",
+      "it": "Salita su gradino",
+      "de": "Step-up"
+    },
+    "cues": {
+      "en": "Step onto a stable platform and control the descent.",
+      "it": "Sali su un rialzo stabile e controlla la discesa.",
+      "de": "Steige auf eine stabile Erhöhung und senke dich kontrolliert."
+    },
+    "target": "8–12 / side",
+    "rest": 75,
+    "sets": 3
+  },
+  {
+    "id": "assisted-pistol",
+    "group": "legs",
+    "diagram": "squat",
+    "names": {
+      "en": "Assisted pistol squat",
+      "it": "Pistol squat assistito",
+      "de": "Unterstützte Pistol-Kniebeuge"
+    },
+    "cues": {
+      "en": "Hold a stable support and keep your heel down.",
+      "it": "Usa un supporto stabile e tieni il tallone a terra.",
+      "de": "Halte dich an einer stabilen Stütze fest und lasse die Ferse unten."
+    },
+    "target": "5–8 / side",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "pistol-squat",
+    "group": "legs",
+    "diagram": "squat",
+    "names": {
+      "en": "Pistol squat",
+      "it": "Pistol squat",
+      "de": "Pistol-Kniebeuge"
+    },
+    "cues": {
+      "en": "Balance on one foot and lower only as far as controlled.",
+      "it": "Bilanciati su un piede e scendi solo finché mantieni il controllo.",
+      "de": "Balanciere auf einem Fuß und senke dich nur so weit wie kontrollierbar."
+    },
+    "target": "3–6 / side",
+    "rest": 150,
+    "sets": 3
+  },
+  {
+    "id": "glute-bridge",
+    "group": "legs",
+    "diagram": "bridge",
+    "names": {
+      "en": "Glute bridge",
+      "it": "Ponte glutei",
+      "de": "Glute Bridge"
+    },
+    "cues": {
+      "en": "Press through your heels and lift hips without arching your back.",
+      "it": "Spingi sui talloni e solleva le anche senza inarcare la schiena.",
+      "de": "Drücke über die Fersen und hebe die Hüfte ohne Hohlkreuz."
+    },
+    "target": "10–15",
+    "rest": 60,
+    "sets": 3
+  },
+  {
+    "id": "single-leg-bridge",
+    "group": "legs",
+    "diagram": "bridge",
+    "names": {
+      "en": "Single-leg glute bridge",
+      "it": "Ponte glutei a una gamba",
+      "de": "Einbeinige Glute Bridge"
+    },
+    "cues": {
+      "en": "Keep hips level as one foot leaves the floor.",
+      "it": "Mantieni le anche allo stesso livello mentre sollevi un piede.",
+      "de": "Halte die Hüfte waagerecht, während ein Fuß abhebt."
+    },
+    "target": "8–12 / side",
+    "rest": 75,
+    "sets": 3
+  },
+  {
+    "id": "calf-raise",
+    "group": "legs",
+    "diagram": "squat",
+    "names": {
+      "en": "Calf raise",
+      "it": "Sollevamento polpacci",
+      "de": "Wadenheben"
+    },
+    "cues": {
+      "en": "Rise onto the balls of your feet and lower slowly.",
+      "it": "Sali sulle punte e scendi lentamente.",
+      "de": "Hebe die Fersen und senke sie langsam ab."
+    },
+    "target": "12–20",
+    "rest": 45,
+    "sets": 3
+  },
+  {
+    "id": "forearm-plank",
+    "group": "core",
+    "diagram": "plank",
+    "names": {
+      "en": "Forearm plank",
+      "it": "Plank sugli avambracci",
+      "de": "Unterarmstütz"
+    },
+    "cues": {
+      "en": "Brace your abdomen and avoid sagging hips.",
+      "it": "Contrai l’addome ed evita di far scendere il bacino.",
+      "de": "Spanne den Bauch an und lasse die Hüfte nicht absinken."
+    },
+    "target": "20–40 s",
+    "rest": 45,
+    "sets": 3
+  },
+  {
+    "id": "high-plank",
+    "group": "core",
+    "diagram": "plank",
+    "names": {
+      "en": "High plank",
+      "it": "Plank a braccia tese",
+      "de": "Hoher Plank"
+    },
+    "cues": {
+      "en": "Place hands under shoulders and maintain a straight line.",
+      "it": "Mani sotto le spalle e corpo in linea.",
+      "de": "Hände unter die Schultern setzen und den Körper gerade halten."
+    },
+    "target": "20–40 s",
+    "rest": 45,
+    "sets": 3
+  },
+  {
+    "id": "side-plank",
+    "group": "core",
+    "diagram": "plank",
+    "names": {
+      "en": "Side plank",
+      "it": "Plank laterale",
+      "de": "Seitstütz"
+    },
+    "cues": {
+      "en": "Stack hips and keep your body aligned.",
+      "it": "Sovrapponi le anche e mantieni il corpo allineato.",
+      "de": "Halte die Hüfte übereinander und den Körper gerade."
+    },
+    "target": "20–35 s / side",
+    "rest": 45,
+    "sets": 3
+  },
+  {
+    "id": "tucked-hollow",
+    "group": "core",
+    "diagram": "hollow",
+    "names": {
+      "en": "Tucked hollow hold",
+      "it": "Hollow position raccolta",
+      "de": "Hollow Hold mit angewinkelten Beinen"
+    },
+    "cues": {
+      "en": "Press your lower back into the floor and keep knees bent.",
+      "it": "Premi la zona lombare sul pavimento e tieni le ginocchia piegate.",
+      "de": "Drücke den unteren Rücken zum Boden und beuge die Knie."
+    },
+    "target": "15–30 s",
+    "rest": 45,
+    "sets": 3
+  },
+  {
+    "id": "hollow-hold",
+    "group": "core",
+    "diagram": "hollow",
+    "names": {
+      "en": "Hollow hold",
+      "it": "Hollow position distesa",
+      "de": "Hollow Hold"
+    },
+    "cues": {
+      "en": "Keep your lower back down; bend knees if needed.",
+      "it": "Tieni la zona lombare a terra; piega le ginocchia se serve.",
+      "de": "Halte den unteren Rücken unten; beuge bei Bedarf die Knie."
+    },
+    "target": "20–40 s",
+    "rest": 60,
+    "sets": 3
+  },
+  {
+    "id": "dead-bug",
+    "group": "core",
+    "diagram": "hollow",
+    "names": {
+      "en": "Dead bug",
+      "it": "Dead bug",
+      "de": "Dead Bug"
+    },
+    "cues": {
+      "en": "Extend opposite arm and leg while keeping your back on the floor.",
+      "it": "Distendi braccio e gamba opposti tenendo la schiena a terra.",
+      "de": "Strecke Arm und Bein diagonal aus, während der Rücken am Boden bleibt."
+    },
+    "target": "8–12 / side",
+    "rest": 45,
+    "sets": 3
+  },
+  {
+    "id": "bird-dog",
+    "group": "core",
+    "diagram": "plank",
+    "names": {
+      "en": "Bird dog",
+      "it": "Bird dog",
+      "de": "Bird Dog"
+    },
+    "cues": {
+      "en": "Reach opposite arm and leg without rotating your hips.",
+      "it": "Allunga braccio e gamba opposti senza ruotare le anche.",
+      "de": "Strecke Arm und Bein diagonal aus, ohne die Hüfte zu drehen."
+    },
+    "target": "8–12 / side",
+    "rest": 45,
+    "sets": 3
+  },
+  {
+    "id": "mountain-climber",
+    "group": "core",
+    "diagram": "plank",
+    "names": {
+      "en": "Mountain climber",
+      "it": "Mountain climber",
+      "de": "Mountain Climber"
+    },
+    "cues": {
+      "en": "Drive knees toward the chest with a steady trunk.",
+      "it": "Porta le ginocchia al petto mantenendo stabile il tronco.",
+      "de": "Führe die Knie zur Brust und halte den Rumpf stabil."
+    },
+    "target": "20–40 s",
+    "rest": 60,
+    "sets": 3
+  },
+  {
+    "id": "reverse-crunch",
+    "group": "core",
+    "diagram": "hollow",
+    "names": {
+      "en": "Reverse crunch",
+      "it": "Crunch inverso",
+      "de": "Reverse Crunch"
+    },
+    "cues": {
+      "en": "Curl your pelvis up gently without swinging your legs.",
+      "it": "Solleva dolcemente il bacino senza slanciare le gambe.",
+      "de": "Rolle das Becken sanft ein, ohne mit den Beinen zu schwingen."
+    },
+    "target": "10–15",
+    "rest": 60,
+    "sets": 3
+  },
+  {
+    "id": "hanging-knee-raise",
+    "group": "core",
+    "diagram": "hang",
+    "names": {
+      "en": "Hanging knee raise",
+      "it": "Sollevamento ginocchia appesi",
+      "de": "Hängendes Knieheben"
+    },
+    "cues": {
+      "en": "Hang from a secure bar and raise knees without swinging.",
+      "it": "Appenditi a una sbarra sicura e solleva le ginocchia senza slancio.",
+      "de": "Hänge an einer sicheren Stange und hebe die Knie ohne Schwung."
+    },
+    "target": "8–12",
+    "rest": 75,
+    "sets": 3
+  },
+  {
+    "id": "hanging-leg-raise",
+    "group": "core",
+    "diagram": "hang",
+    "names": {
+      "en": "Hanging leg raise",
+      "it": "Sollevamento gambe appesi",
+      "de": "Hängendes Beinheben"
+    },
+    "cues": {
+      "en": "Raise your legs under control without swinging.",
+      "it": "Solleva le gambe con controllo evitando lo slancio.",
+      "de": "Hebe die Beine kontrolliert und ohne Schwung."
+    },
+    "target": "6–10",
+    "rest": 90,
+    "sets": 3
+  },
+  {
+    "id": "tuck-l-sit",
+    "group": "skills",
+    "diagram": "lsit",
+    "names": {
+      "en": "Tuck L-sit",
+      "it": "L-sit raccolta",
+      "de": "Tuck L-Sit"
+    },
+    "cues": {
+      "en": "Support your weight on stable bars and lift bent knees.",
+      "it": "Sostieniti su parallele stabili e solleva le ginocchia piegate.",
+      "de": "Stütze dich auf stabile Barren und hebe angewinkelte Knie."
+    },
+    "target": "10–20 s",
+    "rest": 90,
+    "sets": 3
+  },
+  {
+    "id": "l-sit",
+    "group": "skills",
+    "diagram": "lsit",
+    "names": {
+      "en": "L-sit",
+      "it": "L-sit",
+      "de": "L-Sit"
+    },
+    "cues": {
+      "en": "Press through stable supports and extend your legs forward.",
+      "it": "Spingi su appoggi stabili e distendi le gambe avanti.",
+      "de": "Drücke dich auf stabilen Stützen hoch und strecke die Beine vor."
+    },
+    "target": "10–25 s",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "wall-handstand",
+    "group": "skills",
+    "diagram": "handstand",
+    "names": {
+      "en": "Wall handstand hold",
+      "it": "Verticale al muro",
+      "de": "Handstand an der Wand"
+    },
+    "cues": {
+      "en": "Use a clear wall and practice controlled entry and exit.",
+      "it": "Usa un muro libero ed entra ed esci dalla posizione con controllo.",
+      "de": "Nutze eine freie Wand und übe einen kontrollierten Ein- und Ausstieg."
+    },
+    "target": "15–30 s",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "handstand",
+    "group": "skills",
+    "diagram": "handstand",
+    "names": {
+      "en": "Freestanding handstand",
+      "it": "Verticale libera",
+      "de": "Freier Handstand"
+    },
+    "cues": {
+      "en": "Practice in a clear area with a safe exit.",
+      "it": "Allenati in uno spazio libero con una via d’uscita sicura.",
+      "de": "Übe auf freier Fläche mit sicherem Ausstieg."
+    },
+    "target": "10–30 s",
+    "rest": 150,
+    "sets": 3
+  },
+  {
+    "id": "crow-pose",
+    "group": "skills",
+    "diagram": "planche",
+    "names": {
+      "en": "Crow hold",
+      "it": "Posizione del corvo",
+      "de": "Krähenstand"
+    },
+    "cues": {
+      "en": "Lean gradually with hands planted and keep a soft landing area.",
+      "it": "Sposta il peso gradualmente sulle mani con un appoggio morbido vicino.",
+      "de": "Verlagere das Gewicht langsam auf die Hände und sichere die Landung ab."
+    },
+    "target": "10–25 s",
+    "rest": 90,
+    "sets": 3
+  },
+  {
+    "id": "tuck-front-lever",
+    "group": "skills",
+    "diagram": "lever",
+    "names": {
+      "en": "Tuck front lever",
+      "it": "Front lever raccolta",
+      "de": "Tuck Front Lever"
+    },
+    "cues": {
+      "en": "Brace your trunk and lift bent knees without swinging.",
+      "it": "Attiva il tronco e solleva le ginocchia piegate senza slancio.",
+      "de": "Spanne den Rumpf an und hebe gebeugte Knie ohne Schwung."
+    },
+    "target": "8–15 s",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "front-lever",
+    "group": "skills",
+    "diagram": "lever",
+    "names": {
+      "en": "Front lever",
+      "it": "Front lever",
+      "de": "Front Lever"
+    },
+    "cues": {
+      "en": "Keep shoulders engaged and body horizontal without swinging.",
+      "it": "Mantieni le spalle attive e il corpo orizzontale senza slancio.",
+      "de": "Halte die Schultern aktiv und den Körper ohne Schwung waagerecht."
+    },
+    "target": "5–12 s",
+    "rest": 150,
+    "sets": 3
+  },
+  {
+    "id": "tuck-back-lever",
+    "group": "skills",
+    "diagram": "lever",
+    "names": {
+      "en": "Tuck back lever",
+      "it": "Back lever raccolta",
+      "de": "Tuck Back Lever"
+    },
+    "cues": {
+      "en": "Enter gently on a secure bar and avoid forcing shoulder range.",
+      "it": "Entra con cautela su sbarra sicura senza forzare le spalle.",
+      "de": "Gehe behutsam an einer sicheren Stange hinein und erzwinge keine Schulterbewegung."
+    },
+    "target": "8–15 s",
+    "rest": 120,
+    "sets": 3
+  },
+  {
+    "id": "back-lever",
+    "group": "skills",
+    "diagram": "lever",
+    "names": {
+      "en": "Back lever",
+      "it": "Back lever",
+      "de": "Back Lever"
+    },
+    "cues": {
+      "en": "Use a controlled progression and avoid shoulder discomfort.",
+      "it": "Usa una progressione controllata e fermati se senti fastidio alle spalle.",
+      "de": "Steigere dich kontrolliert und stoppe bei Schulterbeschwerden."
+    },
+    "target": "5–12 s",
+    "rest": 150,
+    "sets": 3
+  },
+  {
+    "id": "tuck-planche",
+    "group": "skills",
+    "diagram": "planche",
+    "names": {
+      "en": "Tuck planche",
+      "it": "Planche raccolta",
+      "de": "Tuck Planche"
+    },
+    "cues": {
+      "en": "Lean forward on stable supports with knees tucked.",
+      "it": "Porta il peso in avanti su appoggi stabili con ginocchia raccolte.",
+      "de": "Lehne dich auf stabilen Stützen mit angezogenen Knien nach vorn."
+    },
+    "target": "5–12 s",
+    "rest": 150,
+    "sets": 3
+  },
+  {
+    "id": "muscle-up",
+    "group": "skills",
+    "diagram": "muscleup",
+    "names": {
+      "en": "Bar muscle-up",
+      "it": "Muscle-up alla sbarra",
+      "de": "Muscle-up an der Stange"
+    },
+    "cues": {
+      "en": "Use a secure bar and controlled transition above it.",
+      "it": "Usa una sbarra sicura e controlla il passaggio sopra la sbarra.",
+      "de": "Nutze eine sichere Stange und kontrolliere den Übergang darüber."
+    },
+    "target": "3–6",
+    "rest": 150,
+    "sets": 3
+  }
+]

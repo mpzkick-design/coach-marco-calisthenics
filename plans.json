@@ -1,0 +1,632 @@
+[
+  [
+    [
+      {
+        "id": "default-0-0-0",
+        "group": "push",
+        "diagram": "push",
+        "names": {
+          "en": "Floor push-ups",
+          "it": "Piegamenti a terra",
+          "de": "Liegestütze"
+        },
+        "cues": {
+          "en": "Keep a straight body and elbows around 45°. Use knees or an elevated surface if needed.",
+          "it": "Corpo in linea, gomiti a circa 45°. Se necessario appoggia le ginocchia o usa un piano rialzato.",
+          "de": "Halte den Körper gerade und die Ellbogen etwa 45° nach außen. Nutze bei Bedarf die Knie oder eine Erhöhung."
+        },
+        "target": "6–10",
+        "rest": 75,
+        "sets": 3
+      },
+      {
+        "id": "default-0-0-1",
+        "group": "legs",
+        "diagram": "squat",
+        "names": {
+          "en": "Bodyweight squat",
+          "it": "Squat a corpo libero",
+          "de": "Kniebeugen mit Körpergewicht"
+        },
+        "cues": {
+          "en": "Keep feet grounded and knees tracking toes. Lower only as far as you can control.",
+          "it": "Piedi ben appoggiati; ginocchia nella direzione delle punte. Scendi finché mantieni il controllo.",
+          "de": "Halte die Füße fest am Boden; die Knie folgen den Fußspitzen. Gehe nur so tief, wie du die Bewegung kontrollierst."
+        },
+        "target": "10–15",
+        "rest": 60,
+        "sets": 3
+      },
+      {
+        "id": "default-0-0-2",
+        "group": "pull",
+        "diagram": "row",
+        "names": {
+          "en": "Inverted row",
+          "it": "Rematore alla sbarra bassa",
+          "de": "Umgekehrtes Rudern"
+        },
+        "cues": {
+          "en": "Use a securely fixed bar. Pull your chest towards it with a straight torso; bend knees to make it easier.",
+          "it": "Sbarra fissata e stabile. Tira il petto verso la sbarra, mantenendo il tronco allineato; piega le ginocchia per facilitare.",
+          "de": "Nutze eine sicher befestigte Stange. Ziehe die Brust zur Stange und halte den Rumpf gerade; gebeugte Knie erleichtern die Übung."
+        },
+        "target": "6–10",
+        "rest": 75,
+        "sets": 3
+      },
+      {
+        "id": "default-0-0-3",
+        "group": "core",
+        "diagram": "plank",
+        "names": {
+          "en": "Forearm plank",
+          "it": "Plank sugli avambracci",
+          "de": "Unterarmstütz"
+        },
+        "cues": {
+          "en": "Elbows below shoulders. Brace your core and glutes; do not let your hips sag.",
+          "it": "Gomiti sotto le spalle, addome e glutei attivi. Non lasciare scendere il bacino.",
+          "de": "Ellbogen unter den Schultern. Spanne Bauch und Gesäß an und lass die Hüfte nicht absinken."
+        },
+        "target": "20–30 s",
+        "rest": 45,
+        "sets": 3
+      },
+      {
+        "id": "default-0-0-4",
+        "group": "core",
+        "diagram": "hollow",
+        "names": {
+          "en": "Tucked hollow hold",
+          "it": "Hollow position raccolta",
+          "de": "Hollow Hold mit angezogenen Knien"
+        },
+        "cues": {
+          "en": "Keep your lower back on the floor and knees bent. Lift shoulder blades gently without straining your neck.",
+          "it": "Zona lombare a contatto col suolo, ginocchia piegate. Solleva leggermente le scapole senza tirare il collo.",
+          "de": "Halte den unteren Rücken am Boden und die Knie gebeugt. Hebe die Schulterblätter leicht an, ohne den Nacken zu belasten."
+        },
+        "target": "15–25 s",
+        "rest": 45,
+        "sets": 3
+      },
+      {
+        "id": "default-0-0-5",
+        "group": "legs",
+        "diagram": "lunge",
+        "names": {
+          "en": "Forward lunges",
+          "it": "Affondi in avanti",
+          "de": "Ausfallschritte nach vorn"
+        },
+        "cues": {
+          "en": "Step forward, lower your back knee and push through your front foot to return.",
+          "it": "Fai un passo avanti, abbassa il ginocchio posteriore e spingi dal piede anteriore per tornare.",
+          "de": "Mache einen Schritt nach vorn, senke das hintere Knie und drücke dich über den vorderen Fuß zurück."
+        },
+        "target": "8 / lato · side",
+        "rest": 60,
+        "sets": 3
+      }
+    ],
+    [
+      {
+        "id": "default-0-1-0",
+        "group": "push",
+        "diagram": "push",
+        "names": {
+          "en": "Incline push-ups",
+          "it": "Piegamenti su rialzo",
+          "de": "Erhöhte Liegestütze"
+        },
+        "cues": {
+          "en": "Keep a straight body and elbows around 45°. Use knees or an elevated surface if needed.",
+          "it": "Corpo in linea, gomiti a circa 45°. Se necessario appoggia le ginocchia o usa un piano rialzato.",
+          "de": "Halte den Körper gerade und die Ellbogen etwa 45° nach außen. Nutze bei Bedarf die Knie oder eine Erhöhung."
+        },
+        "target": "8–12",
+        "rest": 75,
+        "sets": 3
+      },
+      {
+        "id": "default-0-1-1",
+        "group": "legs",
+        "diagram": "lunge",
+        "names": {
+          "en": "Forward lunges",
+          "it": "Affondi in avanti",
+          "de": "Ausfallschritte nach vorn"
+        },
+        "cues": {
+          "en": "Step forward, lower your back knee and push through your front foot to return.",
+          "it": "Fai un passo avanti, abbassa il ginocchio posteriore e spingi dal piede anteriore per tornare.",
+          "de": "Mache einen Schritt nach vorn, senke das hintere Knie und drücke dich über den vorderen Fuß zurück."
+        },
+        "target": "8 / lato · side",
+        "rest": 60,
+        "sets": 3
+      },
+      {
+        "id": "default-0-1-2",
+        "group": "pull",
+        "diagram": "row",
+        "names": {
+          "en": "Inverted row",
+          "it": "Rematore alla sbarra bassa",
+          "de": "Umgekehrtes Rudern"
+        },
+        "cues": {
+          "en": "Use a securely fixed bar. Pull your chest towards it with a straight torso; bend knees to make it easier.",
+          "it": "Sbarra fissata e stabile. Tira il petto verso la sbarra, mantenendo il tronco allineato; piega le ginocchia per facilitare.",
+          "de": "Nutze eine sicher befestigte Stange. Ziehe die Brust zur Stange und halte den Rumpf gerade; gebeugte Knie erleichtern die Übung."
+        },
+        "target": "8–12",
+        "rest": 75,
+        "sets": 3
+      },
+      {
+        "id": "default-0-1-3",
+        "group": "core",
+        "diagram": "plank",
+        "names": {
+          "en": "Forearm plank",
+          "it": "Plank sugli avambracci",
+          "de": "Unterarmstütz"
+        },
+        "cues": {
+          "en": "Elbows below shoulders. Brace your core and glutes; do not let your hips sag.",
+          "it": "Gomiti sotto le spalle, addome e glutei attivi. Non lasciare scendere il bacino.",
+          "de": "Ellbogen unter den Schultern. Spanne Bauch und Gesäß an und lass die Hüfte nicht absinken."
+        },
+        "target": "20–30 s",
+        "rest": 45,
+        "sets": 3
+      },
+      {
+        "id": "default-0-1-4",
+        "group": "core",
+        "diagram": "hollow",
+        "names": {
+          "en": "Tucked hollow hold",
+          "it": "Hollow position raccolta",
+          "de": "Hollow Hold mit angezogenen Knien"
+        },
+        "cues": {
+          "en": "Keep your lower back on the floor and knees bent. Lift shoulder blades gently without straining your neck.",
+          "it": "Zona lombare a contatto col suolo, ginocchia piegate. Solleva leggermente le scapole senza tirare il collo.",
+          "de": "Halte den unteren Rücken am Boden und die Knie gebeugt. Hebe die Schulterblätter leicht an, ohne den Nacken zu belasten."
+        },
+        "target": "15–25 s",
+        "rest": 45,
+        "sets": 3
+      },
+      {
+        "id": "default-0-1-5",
+        "group": "legs",
+        "diagram": "squat",
+        "names": {
+          "en": "Bodyweight squat",
+          "it": "Squat a corpo libero",
+          "de": "Kniebeugen mit Körpergewicht"
+        },
+        "cues": {
+          "en": "Keep feet grounded and knees tracking toes. Lower only as far as you can control.",
+          "it": "Piedi ben appoggiati; ginocchia nella direzione delle punte. Scendi finché mantieni il controllo.",
+          "de": "Halte die Füße fest am Boden; die Knie folgen den Fußspitzen. Gehe nur so tief, wie du die Bewegung kontrollierst."
+        },
+        "target": "10–15",
+        "rest": 60,
+        "sets": 3
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "id": "default-1-0-0",
+        "group": "pull",
+        "diagram": "pull",
+        "names": {
+          "en": "Pull-ups",
+          "it": "Trazioni alla sbarra",
+          "de": "Klimmzüge"
+        },
+        "cues": {
+          "en": "Start with controlled shoulders. Pull your chin above the bar without swinging; lower slowly.",
+          "it": "Parti con spalle controllate; porta il mento sopra la sbarra senza slancio. Scendi lentamente.",
+          "de": "Beginne mit kontrollierten Schultern. Ziehe das Kinn ohne Schwung über die Stange und senke dich langsam ab."
+        },
+        "target": "5–8",
+        "rest": 120,
+        "sets": 3
+      },
+      {
+        "id": "default-1-0-1",
+        "group": "push",
+        "diagram": "push",
+        "names": {
+          "en": "Floor push-ups",
+          "it": "Piegamenti a terra",
+          "de": "Liegestütze"
+        },
+        "cues": {
+          "en": "Keep a straight body and elbows around 45°. Use knees or an elevated surface if needed.",
+          "it": "Corpo in linea, gomiti a circa 45°. Se necessario appoggia le ginocchia o usa un piano rialzato.",
+          "de": "Halte den Körper gerade und die Ellbogen etwa 45° nach außen. Nutze bei Bedarf die Knie oder eine Erhöhung."
+        },
+        "target": "10–15",
+        "rest": 75,
+        "sets": 3
+      },
+      {
+        "id": "default-1-0-2",
+        "group": "legs",
+        "diagram": "lunge",
+        "names": {
+          "en": "Forward lunges",
+          "it": "Affondi in avanti",
+          "de": "Ausfallschritte nach vorn"
+        },
+        "cues": {
+          "en": "Step forward, lower your back knee and push through your front foot to return.",
+          "it": "Fai un passo avanti, abbassa il ginocchio posteriore e spingi dal piede anteriore per tornare.",
+          "de": "Mache einen Schritt nach vorn, senke das hintere Knie und drücke dich über den vorderen Fuß zurück."
+        },
+        "target": "8 / lato · side",
+        "rest": 60,
+        "sets": 3
+      },
+      {
+        "id": "default-1-0-3",
+        "group": "core",
+        "diagram": "hollow",
+        "names": {
+          "en": "Hollow hold",
+          "it": "Hollow position",
+          "de": "Hollow Hold"
+        },
+        "cues": {
+          "en": "Keep your lower back on the floor and knees bent. Lift shoulder blades gently without straining your neck.",
+          "it": "Zona lombare a contatto col suolo, ginocchia piegate. Solleva leggermente le scapole senza tirare il collo.",
+          "de": "Halte den unteren Rücken am Boden und die Knie gebeugt. Hebe die Schulterblätter leicht an, ohne den Nacken zu belasten."
+        },
+        "target": "25–35 s",
+        "rest": 45,
+        "sets": 3
+      },
+      {
+        "id": "default-1-0-4",
+        "group": "core",
+        "diagram": "plank",
+        "names": {
+          "en": "Forearm plank",
+          "it": "Plank sugli avambracci",
+          "de": "Unterarmstütz"
+        },
+        "cues": {
+          "en": "Elbows below shoulders. Brace your core and glutes; do not let your hips sag.",
+          "it": "Gomiti sotto le spalle, addome e glutei attivi. Non lasciare scendere il bacino.",
+          "de": "Ellbogen unter den Schultern. Spanne Bauch und Gesäß an und lass die Hüfte nicht absinken."
+        },
+        "target": "20–30 s",
+        "rest": 45,
+        "sets": 3
+      }
+    ],
+    [
+      {
+        "id": "default-1-1-0",
+        "group": "push",
+        "diagram": "dip",
+        "names": {
+          "en": "Parallel bar dips",
+          "it": "Dip alle parallele",
+          "de": "Dips am Barren"
+        },
+        "cues": {
+          "en": "Use stable bars and keep shoulders away from ears. Bend elbows only through a comfortable range.",
+          "it": "Parallele stabili, spalle lontane dalle orecchie. Piega i gomiti solo entro un arco confortevole.",
+          "de": "Nutze einen stabilen Barren und halte die Schultern tief. Beuge die Ellbogen nur im angenehmen Bewegungsbereich."
+        },
+        "target": "6–10",
+        "rest": 120,
+        "sets": 3
+      },
+      {
+        "id": "default-1-1-1",
+        "group": "push",
+        "diagram": "pike",
+        "names": {
+          "en": "Pike push-up",
+          "it": "Pike push-up",
+          "de": "Pike Liegestütze"
+        },
+        "cues": {
+          "en": "Keep hips high. Bend elbows to lower your head towards a point in front of your hands, then push up.",
+          "it": "Bacino alto. Fletti i gomiti portando la testa verso un punto davanti alle mani, poi spingi.",
+          "de": "Halte die Hüfte hoch. Senke den Kopf vor die Hände und drücke dich wieder hoch."
+        },
+        "target": "6–10",
+        "rest": 90,
+        "sets": 3
+      },
+      {
+        "id": "default-1-1-2",
+        "group": "legs",
+        "diagram": "squat",
+        "names": {
+          "en": "Slow eccentric squat (3 s)",
+          "it": "Squat con discesa lenta (3 s)",
+          "de": "Kniebeugen mit langsamer Abwärtsphase (3 s)"
+        },
+        "cues": {
+          "en": "Keep feet grounded and knees tracking toes. Lower only as far as you can control.",
+          "it": "Piedi ben appoggiati; ginocchia nella direzione delle punte. Scendi finché mantieni il controllo.",
+          "de": "Halte die Füße fest am Boden; die Knie folgen den Fußspitzen. Gehe nur so tief, wie du die Bewegung kontrollierst."
+        },
+        "target": "10–12",
+        "rest": 60,
+        "sets": 3
+      },
+      {
+        "id": "default-1-1-3",
+        "group": "pull",
+        "diagram": "row",
+        "names": {
+          "en": "Inverted row",
+          "it": "Rematore alla sbarra bassa",
+          "de": "Umgekehrtes Rudern"
+        },
+        "cues": {
+          "en": "Use a securely fixed bar. Pull your chest towards it with a straight torso; bend knees to make it easier.",
+          "it": "Sbarra fissata e stabile. Tira il petto verso la sbarra, mantenendo il tronco allineato; piega le ginocchia per facilitare.",
+          "de": "Nutze eine sicher befestigte Stange. Ziehe die Brust zur Stange und halte den Rumpf gerade; gebeugte Knie erleichtern die Übung."
+        },
+        "target": "10–12",
+        "rest": 75,
+        "sets": 3
+      },
+      {
+        "id": "default-1-1-4",
+        "group": "core",
+        "diagram": "plank",
+        "names": {
+          "en": "Forearm plank",
+          "it": "Plank sugli avambracci",
+          "de": "Unterarmstütz"
+        },
+        "cues": {
+          "en": "Elbows below shoulders. Brace your core and glutes; do not let your hips sag.",
+          "it": "Gomiti sotto le spalle, addome e glutei attivi. Non lasciare scendere il bacino.",
+          "de": "Ellbogen unter den Schultern. Spanne Bauch und Gesäß an und lass die Hüfte nicht absinken."
+        },
+        "target": "35–45 s",
+        "rest": 45,
+        "sets": 3
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "id": "default-2-0-0",
+        "group": "pull",
+        "diagram": "pull",
+        "names": {
+          "en": "Paused pull-ups (2 s)",
+          "it": "Trazioni con pausa (2 s)",
+          "de": "Klimmzüge mit Pause (2 s)"
+        },
+        "cues": {
+          "en": "Start with controlled shoulders. Pull your chin above the bar without swinging; lower slowly.",
+          "it": "Parti con spalle controllate; porta il mento sopra la sbarra senza slancio. Scendi lentamente.",
+          "de": "Beginne mit kontrollierten Schultern. Ziehe das Kinn ohne Schwung über die Stange und senke dich langsam ab."
+        },
+        "target": "6–10",
+        "rest": 150,
+        "sets": 3
+      },
+      {
+        "id": "default-2-0-1",
+        "group": "push",
+        "diagram": "dip",
+        "names": {
+          "en": "Parallel bar dips",
+          "it": "Dip alle parallele",
+          "de": "Dips am Barren"
+        },
+        "cues": {
+          "en": "Use stable bars and keep shoulders away from ears. Bend elbows only through a comfortable range.",
+          "it": "Parallele stabili, spalle lontane dalle orecchie. Piega i gomiti solo entro un arco confortevole.",
+          "de": "Nutze einen stabilen Barren und halte die Schultern tief. Beuge die Ellbogen nur im angenehmen Bewegungsbereich."
+        },
+        "target": "8–12",
+        "rest": 150,
+        "sets": 3
+      },
+      {
+        "id": "default-2-0-2",
+        "group": "legs",
+        "diagram": "squat",
+        "names": {
+          "en": "Assisted pistol squat",
+          "it": "Pistol squat assistito",
+          "de": "Unterstützte einbeinige Kniebeuge"
+        },
+        "cues": {
+          "en": "Hold a stable support with one leg forward. Lower without lifting the heel or losing balance.",
+          "it": "Usa un sostegno stabile, una gamba avanti. Scendi senza sollevare il tallone e senza perdere equilibrio.",
+          "de": "Halte dich an einer stabilen Stütze fest und strecke ein Bein nach vorn. Senke dich ohne Abheben der Ferse kontrolliert ab."
+        },
+        "target": "5–8 / lato · side",
+        "rest": 120,
+        "sets": 3
+      },
+      {
+        "id": "default-2-0-3",
+        "group": "core",
+        "diagram": "hollow",
+        "names": {
+          "en": "Extended hollow hold",
+          "it": "Hollow position distesa",
+          "de": "Gestreckter Hollow Hold"
+        },
+        "cues": {
+          "en": "Keep your lower back on the floor and knees bent. Lift shoulder blades gently without straining your neck.",
+          "it": "Zona lombare a contatto col suolo, ginocchia piegate. Solleva leggermente le scapole senza tirare il collo.",
+          "de": "Halte den unteren Rücken am Boden und die Knie gebeugt. Hebe die Schulterblätter leicht an, ohne den Nacken zu belasten."
+        },
+        "target": "30–45 s",
+        "rest": 45,
+        "sets": 3
+      },
+      {
+        "id": "default-2-0-4",
+        "group": "pull",
+        "diagram": "row",
+        "names": {
+          "en": "Inverted row",
+          "it": "Rematore alla sbarra bassa",
+          "de": "Umgekehrtes Rudern"
+        },
+        "cues": {
+          "en": "Use a securely fixed bar. Pull your chest towards it with a straight torso; bend knees to make it easier.",
+          "it": "Sbarra fissata e stabile. Tira il petto verso la sbarra, mantenendo il tronco allineato; piega le ginocchia per facilitare.",
+          "de": "Nutze eine sicher befestigte Stange. Ziehe die Brust zur Stange und halte den Rumpf gerade; gebeugte Knie erleichtern die Übung."
+        },
+        "target": "6–10",
+        "rest": 75,
+        "sets": 3
+      },
+      {
+        "id": "default-2-0-5",
+        "group": "push",
+        "diagram": "push",
+        "names": {
+          "en": "Floor push-ups",
+          "it": "Piegamenti a terra",
+          "de": "Liegestütze"
+        },
+        "cues": {
+          "en": "Keep a straight body and elbows around 45°. Use knees or an elevated surface if needed.",
+          "it": "Corpo in linea, gomiti a circa 45°. Se necessario appoggia le ginocchia o usa un piano rialzato.",
+          "de": "Halte den Körper gerade und die Ellbogen etwa 45° nach außen. Nutze bei Bedarf die Knie oder eine Erhöhung."
+        },
+        "target": "6–10",
+        "rest": 75,
+        "sets": 3
+      }
+    ],
+    [
+      {
+        "id": "default-2-1-0",
+        "group": "push",
+        "diagram": "pike",
+        "names": {
+          "en": "Feet-elevated pike push-ups",
+          "it": "Pike push-up con piedi rialzati",
+          "de": "Pike Liegestütze mit erhöhten Füßen"
+        },
+        "cues": {
+          "en": "Keep hips high. Bend elbows to lower your head towards a point in front of your hands, then push up.",
+          "it": "Bacino alto. Fletti i gomiti portando la testa verso un punto davanti alle mani, poi spingi.",
+          "de": "Halte die Hüfte hoch. Senke den Kopf vor die Hände und drücke dich wieder hoch."
+        },
+        "target": "6–10",
+        "rest": 150,
+        "sets": 3
+      },
+      {
+        "id": "default-2-1-1",
+        "group": "pull",
+        "diagram": "row",
+        "names": {
+          "en": "Feet-elevated inverted row",
+          "it": "Rematore con piedi rialzati",
+          "de": "Umgekehrtes Rudern mit erhöhten Füßen"
+        },
+        "cues": {
+          "en": "Use a securely fixed bar. Pull your chest towards it with a straight torso; bend knees to make it easier.",
+          "it": "Sbarra fissata e stabile. Tira il petto verso la sbarra, mantenendo il tronco allineato; piega le ginocchia per facilitare.",
+          "de": "Nutze eine sicher befestigte Stange. Ziehe die Brust zur Stange und halte den Rumpf gerade; gebeugte Knie erleichtern die Übung."
+        },
+        "target": "8–12",
+        "rest": 120,
+        "sets": 3
+      },
+      {
+        "id": "default-2-1-2",
+        "group": "legs",
+        "diagram": "lunge",
+        "names": {
+          "en": "Slow eccentric lunges (3 s)",
+          "it": "Affondi con discesa lenta (3 s)",
+          "de": "Ausfallschritte mit langsamer Abwärtsphase (3 s)"
+        },
+        "cues": {
+          "en": "Step forward, lower your back knee and push through your front foot to return.",
+          "it": "Fai un passo avanti, abbassa il ginocchio posteriore e spingi dal piede anteriore per tornare.",
+          "de": "Mache einen Schritt nach vorn, senke das hintere Knie und drücke dich über den vorderen Fuß zurück."
+        },
+        "target": "10–12 / lato · side",
+        "rest": 60,
+        "sets": 3
+      },
+      {
+        "id": "default-2-1-3",
+        "group": "core",
+        "diagram": "plank",
+        "names": {
+          "en": "Long-lever plank",
+          "it": "Plank con leva lunga",
+          "de": "Unterarmstütz mit langem Hebel"
+        },
+        "cues": {
+          "en": "Move elbows slightly ahead of shoulders without arching your back.",
+          "it": "Porta i gomiti poco più avanti delle spalle senza inarcare la schiena.",
+          "de": "Setze die Ellbogen etwas vor die Schultern, ohne den Rücken zu überstrecken."
+        },
+        "target": "25–40 s",
+        "rest": 45,
+        "sets": 3
+      },
+      {
+        "id": "default-2-1-4",
+        "group": "pull",
+        "diagram": "pull",
+        "names": {
+          "en": "Pull-ups",
+          "it": "Trazioni alla sbarra",
+          "de": "Klimmzüge"
+        },
+        "cues": {
+          "en": "Start with controlled shoulders. Pull your chin above the bar without swinging; lower slowly.",
+          "it": "Parti con spalle controllate; porta il mento sopra la sbarra senza slancio. Scendi lentamente.",
+          "de": "Beginne mit kontrollierten Schultern. Ziehe das Kinn ohne Schwung über die Stange und senke dich langsam ab."
+        },
+        "target": "5–8",
+        "rest": 120,
+        "sets": 3
+      },
+      {
+        "id": "default-2-1-5",
+        "group": "push",
+        "diagram": "dip",
+        "names": {
+          "en": "Parallel bar dips",
+          "it": "Dip alle parallele",
+          "de": "Dips am Barren"
+        },
+        "cues": {
+          "en": "Use stable bars and keep shoulders away from ears. Bend elbows only through a comfortable range.",
+          "it": "Parallele stabili, spalle lontane dalle orecchie. Piega i gomiti solo entro un arco confortevole.",
+          "de": "Nutze einen stabilen Barren und halte die Schultern tief. Beuge die Ellbogen nur im angenehmen Bewegungsbereich."
+        },
+        "target": "6–10",
+        "rest": 120,
+        "sets": 3
+      }
+    ]
+  ]
+]

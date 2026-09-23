@@ -1,0 +1,362 @@
+{
+  "it": {
+    "eyebrow": "DISCIPLINA • COSTANZA • RISULTATI",
+    "heroTitle": "Nutrizione personalizzata",
+    "heroText": "Un punto di partenza per alimentare il tuo allenamento, in base al tuo profilo e ai tuoi obiettivi.",
+    "profileTitle": "Il tuo profilo",
+    "labelAge": "Età (anni)",
+    "labelWeight": "Peso (kg)",
+    "labelHeight": "Altezza (cm)",
+    "labelSex": "Parametro fisiologico",
+    "sexHelp": "Usato solo per stimare il fabbisogno energetico; facoltativo.",
+    "sexOptions": [
+      "Non specificare",
+      "Donna",
+      "Uomo"
+    ],
+    "labelActivity": "Attività quotidiana",
+    "activityOptions": [
+      "Sedentaria",
+      "Leggera",
+      "Moderata",
+      "Elevata"
+    ],
+    "labelLevel": "Livello allenamento",
+    "levelOptions": [
+      "Principiante",
+      "Intermedio",
+      "Avanzato"
+    ],
+    "labelGoal": "Obiettivo",
+    "goalOptions": [
+      "Mantenimento",
+      "Aumento muscolare",
+      "Riduzione del grasso"
+    ],
+    "profileHelp": "I dati restano su questo dispositivo. Le stime non sostituiscono una valutazione medica o nutrizionale.",
+    "sectionTitle": "Il tuo piano",
+    "tabs": [
+      "Panoramica",
+      "Pasti",
+      "Integratori",
+      "Consigli"
+    ],
+    "needProfile": "Inserisci età, peso e altezza per visualizzare le stime.",
+    "invalidProfile": "Controlla i dati: età 1–100 anni, peso 25–300 kg, altezza 120–230 cm.",
+    "under18": "Per i minori di 18 anni non proponiamo conteggi calorici, deficit o dosi di integratori. Concentrati su alimentazione variata, energia per lo sport e recupero; per esigenze individuali consulta un professionista qualificato.",
+    "minorTitle": "Nutrizione durante la crescita",
+    "minorText": "Mangia con regolarità e in modo vario, con proteine alimentari, cereali, verdure, frutta e fonti di calcio. Bevi durante la giornata e attorno agli allenamenti.",
+    "energy": "Energia stimata",
+    "protein": "Proteine indicative",
+    "fats": "Grassi indicativi",
+    "carbs": "Carboidrati residui",
+    "water": "Liquidi indicativi",
+    "perDay": "al giorno",
+    "kcal": "kcal/giorno",
+    "grams": "g/giorno",
+    "liters": "L/giorno",
+    "range": "intervallo",
+    "unknownSex": "Senza parametro fisiologico l’energia viene mostrata come intervallo indicativo.",
+    "estimatesNote": "Stime per adulti sani, non obiettivi prescrittivi. L’energia usa Mifflin–St Jeor e un fattore di attività; il fabbisogno reale può differire. I liquidi sono una stima orientativa da adattare a caldo, sudore e condizioni mediche.",
+    "goalWarning": "Con un indice di massa corporea inferiore a 18,5 non viene proposto un deficit calorico: confrontati con un professionista.",
+    "goalMaintenance": "Mantenimento",
+    "goalGain": "Incremento moderato (+5%)",
+    "goalLoss": "Riduzione moderata (−10%)",
+    "energyGoal": "Obiettivo energetico",
+    "adultMealIntro": "Esempi flessibili: adatta le porzioni al tuo appetito, al carico di allenamento e alle tue esigenze.",
+    "minorMealIntro": "Idee di pasti equilibrati per sostenere crescita e sport, senza contare calorie.",
+    "meals": [
+      [
+        "Colazione",
+        "Yogurt naturale o latte, fiocchi d’avena, frutta e frutta secca."
+      ],
+      [
+        "Pranzo",
+        "Riso o pasta, pollo o ceci, verdure e olio d’oliva."
+      ],
+      [
+        "Cena",
+        "Pesce o tofu, patate o cereali integrali e verdure."
+      ],
+      [
+        "Spuntino",
+        "Frutta, yogurt o un panino semplice; aggiungi uno spuntino intorno all’allenamento se serve."
+      ]
+    ],
+    "suppIntro": "Gli integratori sono facoltativi: prima vengono alimentazione, sonno e allenamento.",
+    "supps": [
+      [
+        "Proteine in polvere",
+        "Possono essere pratiche per gli adulti che non raggiungono il fabbisogno con i cibi; non sono necessarie per tutti."
+      ],
+      [
+        "Creatina",
+        "Può sostenere le prestazioni negli sforzi brevi e intensi per alcuni adulti; valuta controindicazioni e necessità con un professionista."
+      ],
+      [
+        "Omega-3 e micronutrienti",
+        "Meglio verificare prima l’alimentazione e l’eventuale carenza, evitando integrazioni automatiche."
+      ]
+    ],
+    "minorSupp": "Per i minorenni non offriamo suggerimenti personalizzati di integratori: parlane con pediatra o dietista sportivo.",
+    "tips": [
+      [
+        "Prima di allenarti",
+        "Se necessario, scegli un pasto digeribile con carboidrati e una quota di proteine, lasciando tempo alla digestione."
+      ],
+      [
+        "Dopo l’allenamento",
+        "Un normale pasto con proteine, carboidrati e liquidi può favorire il recupero."
+      ],
+      [
+        "Giorni di riposo",
+        "Mantieni un’alimentazione completa; non è necessario eliminare i carboidrati."
+      ],
+      [
+        "Idratazione",
+        "Bevi regolarmente e adatta i liquidi a durata e intensità dell’attività, temperatura e sudorazione."
+      ]
+    ],
+    "footer": "Stime indicative. Fonti: "
+  },
+  "de": {
+    "eyebrow": "DISZIPLIN • BESTÄNDIGKEIT • ERGEBNISSE",
+    "heroTitle": "Individuelle Ernährung",
+    "heroText": "Eine Grundlage für dein Training – angepasst an dein Profil und deine Ziele.",
+    "profileTitle": "Dein Profil",
+    "labelAge": "Alter (Jahre)",
+    "labelWeight": "Gewicht (kg)",
+    "labelHeight": "Größe (cm)",
+    "labelSex": "Physiologischer Parameter",
+    "sexHelp": "Nur für die Energiebedarfs-Schätzung; freiwillig.",
+    "sexOptions": [
+      "Keine Angabe",
+      "Weiblich",
+      "Männlich"
+    ],
+    "labelActivity": "Alltagsaktivität",
+    "activityOptions": [
+      "Sitzend",
+      "Leicht aktiv",
+      "Mäßig aktiv",
+      "Sehr aktiv"
+    ],
+    "labelLevel": "Trainingsniveau",
+    "levelOptions": [
+      "Anfänger",
+      "Mittelstufe",
+      "Fortgeschritten"
+    ],
+    "labelGoal": "Ziel",
+    "goalOptions": [
+      "Gewicht halten",
+      "Muskelaufbau",
+      "Körperfett reduzieren"
+    ],
+    "profileHelp": "Deine Daten bleiben auf diesem Gerät. Schätzungen ersetzen keine medizinische oder ernährungsfachliche Beratung.",
+    "sectionTitle": "Dein Ernährungsplan",
+    "tabs": [
+      "Übersicht",
+      "Mahlzeiten",
+      "Supplemente",
+      "Tipps"
+    ],
+    "needProfile": "Bitte Alter, Gewicht und Größe eingeben, um die Schätzungen zu sehen.",
+    "invalidProfile": "Bitte prüfe die Angaben: 1–100 Jahre, 25–300 kg, 120–230 cm.",
+    "under18": "Für unter 18-Jährige zeigen wir keine Kalorienziele, Defizite oder Supplement-Dosierungen. Wichtig sind abwechslungsreiche Ernährung, Energie fürs Training und Erholung. Bei individuellen Fragen fachlichen Rat einholen.",
+    "minorTitle": "Ernährung im Wachstum",
+    "minorText": "Iss regelmäßig und abwechslungsreich: Lebensmittel mit Eiweiß, Getreide, Gemüse, Obst und Kalzium. Trinke über den Tag und rund ums Training.",
+    "energy": "Geschätzte Energie",
+    "protein": "Eiweiß (Orientierung)",
+    "fats": "Fette (Orientierung)",
+    "carbs": "Restliche Kohlenhydrate",
+    "water": "Flüssigkeit (Richtwert)",
+    "perDay": "pro Tag",
+    "kcal": "kcal/Tag",
+    "grams": "g/Tag",
+    "liters": "L/Tag",
+    "range": "Bereich",
+    "unknownSex": "Ohne physiologischen Parameter wird der Energiebedarf als grober Bereich angezeigt.",
+    "estimatesNote": "Grobe Schätzungen für gesunde Erwachsene, keine festen Vorgaben. Energie nach Mifflin–St Jeor und Aktivitätsfaktor; der tatsächliche Bedarf kann abweichen. Flüssigkeit an Hitze, Schwitzen und Erkrankungen anpassen.",
+    "goalWarning": "Bei einem BMI unter 18,5 wird kein Kaloriendefizit vorgeschlagen: bitte fachlich beraten lassen.",
+    "goalMaintenance": "Erhaltung",
+    "goalGain": "Leichter Überschuss (+5 %)",
+    "goalLoss": "Moderates Defizit (−10 %)",
+    "energyGoal": "Energieziel",
+    "adultMealIntro": "Flexible Beispiele: Passe die Portionen an Appetit, Trainingsumfang und individuellen Bedarf an.",
+    "minorMealIntro": "Ausgewogene Mahlzeiten für Wachstum und Sport – ohne Kalorienzählen.",
+    "meals": [
+      [
+        "Frühstück",
+        "Naturjoghurt oder Milch, Haferflocken, Obst und Nüsse."
+      ],
+      [
+        "Mittagessen",
+        "Reis oder Nudeln, Hähnchen oder Kichererbsen, Gemüse und Olivenöl."
+      ],
+      [
+        "Abendessen",
+        "Fisch oder Tofu, Kartoffeln oder Vollkorngetreide und Gemüse."
+      ],
+      [
+        "Snack",
+        "Obst, Joghurt oder ein belegtes Brot; bei Bedarf Snack rund ums Training."
+      ]
+    ],
+    "suppIntro": "Supplemente sind optional. Ernährung, Schlaf und Training haben Vorrang.",
+    "supps": [
+      [
+        "Proteinpulver",
+        "Kann Erwachsenen helfen, wenn sie den Eiweißbedarf über Lebensmittel nicht decken; nicht für jeden nötig."
+      ],
+      [
+        "Kreatin",
+        "Kann bei manchen Erwachsenen kurze, intensive Belastungen unterstützen. Bedarf und Gegenanzeigen fachlich prüfen."
+      ],
+      [
+        "Omega-3 und Mikronährstoffe",
+        "Zuerst Ernährung und mögliche Mängel beurteilen; nicht automatisch supplementieren."
+      ]
+    ],
+    "minorSupp": "Für Minderjährige geben wir keine individuellen Supplement-Empfehlungen; bitte Kinderarzt oder Sporternährungsfachkraft fragen.",
+    "tips": [
+      [
+        "Vor dem Training",
+        "Bei Bedarf leicht verdauliche Kohlenhydrate mit etwas Eiweiß wählen und ausreichend Verdauungszeit lassen."
+      ],
+      [
+        "Nach dem Training",
+        "Eine normale Mahlzeit mit Eiweiß, Kohlenhydraten und Flüssigkeit unterstützt die Erholung."
+      ],
+      [
+        "An Ruhetagen",
+        "Weiterhin vollwertig essen; Kohlenhydrate müssen nicht gestrichen werden."
+      ],
+      [
+        "Trinken",
+        "Regelmäßig trinken und Menge an Trainingsdauer, Intensität, Temperatur und Schweißverlust anpassen."
+      ]
+    ],
+    "footer": "Unverbindliche Schätzungen. Quellen: "
+  },
+  "en": {
+    "eyebrow": "DISCIPLINE • CONSISTENCY • RESULTS",
+    "heroTitle": "Personalized nutrition",
+    "heroText": "A starting point for fueling your training, tailored to your profile and goals.",
+    "profileTitle": "Your profile",
+    "labelAge": "Age (years)",
+    "labelWeight": "Weight (kg)",
+    "labelHeight": "Height (cm)",
+    "labelSex": "Physiological parameter",
+    "sexHelp": "Used only to estimate energy needs; optional.",
+    "sexOptions": [
+      "Prefer not to say",
+      "Female",
+      "Male"
+    ],
+    "labelActivity": "Daily activity",
+    "activityOptions": [
+      "Sedentary",
+      "Lightly active",
+      "Moderately active",
+      "Very active"
+    ],
+    "labelLevel": "Training level",
+    "levelOptions": [
+      "Beginner",
+      "Intermediate",
+      "Advanced"
+    ],
+    "labelGoal": "Goal",
+    "goalOptions": [
+      "Maintenance",
+      "Muscle gain",
+      "Fat loss"
+    ],
+    "profileHelp": "Your data stay on this device. Estimates do not replace medical or nutritional advice.",
+    "sectionTitle": "Your nutrition plan",
+    "tabs": [
+      "Overview",
+      "Meals",
+      "Supplements",
+      "Tips"
+    ],
+    "needProfile": "Enter age, weight and height to see your estimates.",
+    "invalidProfile": "Check your details: age 1–100, weight 25–300 kg, height 120–230 cm.",
+    "under18": "For users under 18, we do not provide calorie targets, deficits or supplement doses. Focus on varied meals, enough energy for sport and recovery; consult a qualified professional for individual needs.",
+    "minorTitle": "Nutrition while growing",
+    "minorText": "Eat regularly and choose a varied diet with protein-rich foods, grains, vegetables, fruit and calcium sources. Drink throughout the day and around training.",
+    "energy": "Estimated energy",
+    "protein": "Suggested protein",
+    "fats": "Suggested fats",
+    "carbs": "Remaining carbs",
+    "water": "Indicative fluids",
+    "perDay": "per day",
+    "kcal": "kcal/day",
+    "grams": "g/day",
+    "liters": "L/day",
+    "range": "range",
+    "unknownSex": "Without a physiological parameter, energy is displayed as an indicative range.",
+    "estimatesNote": "Estimates for healthy adults, not prescriptions. Energy uses Mifflin–St Jeor and an activity factor; actual needs vary. Adjust fluid intake for heat, sweat and health conditions.",
+    "goalWarning": "No calorie deficit is suggested with a BMI under 18.5. Seek professional advice.",
+    "goalMaintenance": "Maintenance",
+    "goalGain": "Small surplus (+5%)",
+    "goalLoss": "Moderate deficit (−10%)",
+    "energyGoal": "Energy goal",
+    "adultMealIntro": "Flexible examples: adapt portions to appetite, training load and individual needs.",
+    "minorMealIntro": "Balanced meal ideas to support growth and sport, without calorie counting.",
+    "meals": [
+      [
+        "Breakfast",
+        "Plain yogurt or milk, oats, fruit and nuts."
+      ],
+      [
+        "Lunch",
+        "Rice or pasta, chicken or chickpeas, vegetables and olive oil."
+      ],
+      [
+        "Dinner",
+        "Fish or tofu, potatoes or whole grains and vegetables."
+      ],
+      [
+        "Snack",
+        "Fruit, yogurt or a simple sandwich; add a training snack if needed."
+      ]
+    ],
+    "suppIntro": "Supplements are optional: food, sleep and training come first.",
+    "supps": [
+      [
+        "Protein powder",
+        "May help adults who cannot meet protein needs through food; not essential for everyone."
+      ],
+      [
+        "Creatine",
+        "May support short, high-intensity effort in some adults; review suitability and contraindications with a professional."
+      ],
+      [
+        "Omega-3 and micronutrients",
+        "Assess your diet and any deficiency before supplementing routinely."
+      ]
+    ],
+    "minorSupp": "For minors, we do not offer personalized supplement recommendations; ask a pediatrician or sports dietitian.",
+    "tips": [
+      [
+        "Before training",
+        "If needed, choose an easy-to-digest meal with carbs and some protein, with enough time to digest."
+      ],
+      [
+        "After training",
+        "A normal meal with protein, carbs and fluids can support recovery."
+      ],
+      [
+        "On rest days",
+        "Keep eating a complete diet; there is no need to cut out carbohydrates."
+      ],
+      [
+        "Hydration",
+        "Drink regularly and adjust for activity duration, intensity, temperature and sweat."
+      ]
+    ],
+    "footer": "Indicative estimates. Sources: "
+  }
+}
